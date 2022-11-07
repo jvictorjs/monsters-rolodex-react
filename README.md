@@ -1,4 +1,4 @@
-# monsters-rolodex-react-function-components
+# monsters-rolodex-react
 Course project from <i>ZTM - Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)</i>
 
 
